@@ -7,3 +7,4 @@ vim.opt.shiftwidth = 4 -- Largeur des indentations (utilisé par << et >>)
 vim.opt.expandtab = true -- Transforme les tabs en espaces (optionnel, mais recommandé)
 
 vim.opt.clipboard = "unnamedplus"
+vim.g.autoformat = false
